@@ -1,3 +1,4 @@
+I learned how to effectivly train, use and test Linear Regression Models.
 # Linear Regression Exercises
 
 ## Description
